@@ -27,7 +27,7 @@ Soltix is a high-performance distributed time-series database built with Go, des
 
 ### Prerequisites
 
-- Go 1.21+
+- Go 1.25+
 - NATS Server (or Redis/Kafka for message queue)
 - etcd (for metadata and coordination)
 
