@@ -48,6 +48,8 @@ const config = {
         logo: {
           alt: "Soltix - High-Performance Distributed Time-Series Database",
           src: "img/logo.png",
+          href: "https://soltixdb.com",
+          target: "_blank",
         },
         items: [
           {
